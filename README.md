@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yambor Raymond Yantuk</h1>
-<h3 align="center">I am an aspiring Application software developer, embarking on a journey to develop Android applications that solves our daily life needs.</h3>
+<h1 align="left">Hi 👋, I'm Yambor Raymond Yantuk</h1>
+<h3 align="left">I am an aspiring Application software developer, embarking on a journey to develop Android applications that solves our daily life needs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raymondyambor01-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="raymondyambor01-cpu" /> </p>
 

@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raymondyambor01-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="raymondyambor01-cpu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raymondyambor01-cpu" alt="raymondyambor01-cpu" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Networking, cybersecurity and digital forensics**
 
